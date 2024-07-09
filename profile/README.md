@@ -2,4 +2,4 @@
 # Nam Lab at University of Rochester
 
 
-![Logo](ur-logo.svg "Logo")
+![Logo](../ur-logo.svg "Logo")
