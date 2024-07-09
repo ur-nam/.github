@@ -8,11 +8,29 @@
 </picture>
 
 
-## Virtual Cochlea
+<br/>
+<br/>
+<br/>
 
-### Stable Release (Newest)
+<details>
+<summary>
+<strong>Virtual Cochlea</strong>
+</summary>
+
+## Virtual Cochlea
+### Stable Version
 The [virtual-cochlea](https://github.com/ur-nam/virtual-cochlea) repository contains the latest version of our software, including a stable release and a version that is actively developed.
 
 ### Older Versions 
-#### Incompressible
-#### Time-domain
+#### 
+</details>
+
+<br/>
+<details>
+  <summary><strong>Whiskers (Data Acquisition)</strong></summary>
+</details>
+
+<br/>
+<details>
+  <summary><strong>OCT Driver</strong></summary>
+</details>
